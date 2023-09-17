@@ -311,7 +311,7 @@
       <version>2.0.0</version>
       <inherited>false</inherited>
       <configuration>
-        <org>anuja2015</org>
+        <org>anuja2015</org>    <!-- Your organization name in Synk dashboard -->
       </configuration>
     </plugin>
 			
